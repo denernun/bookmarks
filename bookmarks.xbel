@@ -23,6 +23,9 @@
   <bookmark href="https://selfh.st/apps/" id="29">
     <title>Self-Hosted</title>
   </bookmark>
+  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+    <title>Self-Hosted</title>
+  </bookmark>
   <folder id="31">
     <title>Homelab</title>
     <bookmark href="https://192.168.15.100:8006/" id="40">
@@ -142,15 +145,6 @@
   </folder>
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
-  </bookmark>
-  <bookmark href="https://cluster.euatendo.app/login" id="87">
-    <title>Cluster</title>
-  </bookmark>
-  <folder id="88">
-    <title>Tools</title>
-  </folder>
-  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
-    <title>Self-Hosted</title>
   </bookmark>
 </folder>
 <folder id="5">
