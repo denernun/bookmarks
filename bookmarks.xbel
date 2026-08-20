@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :81: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <folder id="4">
+    <title>Folders</title>
+    <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
+      <title>AWS</title>
+    </bookmark>
+    <bookmark href="https://portal.azure.com/#@softclass.com.br/resource/subscriptions/2409bea2-9c0c-42ae-8eb5-65c29b67e112/overview" id="25">
+      <title>Azure</title>
+    </bookmark>
+    <bookmark href="https://dash.cloudflare.com/3e2c49db4eb787654faa22bbc74792d0/stellacalchi.com/dns/records?page=1" id="26">
+      <title>Cloudflare</title>
+    </bookmark>
+    <bookmark href="https://erpclass.apicomponente.com.br/manager/" id="27">
+      <title>Instancias</title>
+    </bookmark>
+    <bookmark href="https://cluster.euatendo.app/dashboard/instances" id="28">
+      <title>Cluster</title>
+    </bookmark>
+    <bookmark href="https://selfh.st/apps/" id="29">
+      <title>Self-Hosted</title>
+    </bookmark>
+    <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+      <title>Self-Hosted</title>
+    </bookmark>
+    <folder id="31">
+      <title>Homelab</title>
+      <bookmark href="https://192.168.15.100:8006/" id="40">
+        <title>Proxmox</title>
+      </bookmark>
+      <bookmark href="http://192.168.15.102:8080/files" id="41">
+        <title>File Server</title>
+      </bookmark>
+    </folder>
+    <folder id="32">
+      <title>Development</title>
+      <bookmark href="http://localhost:8081/" id="42">
+        <title>Mongo</title>
+      </bookmark>
+      <bookmark href="http://localhost:15672/#/" id="43">
+        <title>RabbitMQ</title>
+      </bookmark>
+    </folder>
+    <folder id="33">
+      <title>Cursos</title>
+      <bookmark href="https://www.udemy.com/course/aplicandocleanarchitecturecomdelphi/learn/lecture/42926606?start=440#overview" id="44">
+        <title>Udemy</title>
+      </bookmark>
+      <bookmark href="https://www.expxplay.com.br/portal/7c88bbc3-9b62-4378-b2e4-78e4ce8446d6" id="45">
+        <title>ExpxPlay</title>
+      </bookmark>
+      <bookmark href="https://app.sacfiscal.io/pages/treinamentos/cursos.html" id="46">
+        <title>SACFiscal</title>
+      </bookmark>
+      <bookmark href="https://app.nutror.com/resumo" id="47">
+        <title>ACBr Pro</title>
+      </bookmark>
+      <bookmark href="https://acbr.nutror.com/curso/e16bc01e935004828eff62bb49d189252efbeef9?email=denernun%40gmail.com" id="48">
+        <title>ACBr Pro - Reforma</title>
+      </bookmark>
+    </folder>
+    <folder id="53">
+      <title>Reforma</title>
+      <bookmark href="https://dfe-portal.svrs.rs.gov.br/CFF/ClassificacaoTributaria" id="62">
+        <title>Classificação Tributátria</title>
+      </bookmark>
+      <bookmark href="https://dfe-portal.svrs.rs.gov.br/Nfe" id="63">
+        <title>Portal da Nota Fiscal Eletrônica - SVRS</title>
+      </bookmark>
+      <bookmark href="https://dfe-portal.svrs.rs.gov.br/Cff/ValidadorRtcNfe" id="64">
+        <title>Validador Emissão</title>
+      </bookmark>
+      <bookmark href="https://dfe-portal.svrs.rs.gov.br/NFE/ValidadorNfe" id="65">
+        <title>Validador XML</title>
+      </bookmark>
+      <bookmark href="https://piloto-cbs.tributos.gov.br/servico/calculadora-consumo/calculadora/regime-geral" id="66">
+        <title>Calculadora</title>
+      </bookmark>
+      <bookmark href="https://www.projetoacbr.com.br/forum/topic/82630-centralizando-as-informa%C3%A7%C3%B5es-sobre-a-reforma-tribut%C3%A1ria/" id="67">
+        <title>Aliquotas</title>
+      </bookmark>
+      <bookmark href="https://cff.svrs.rs.gov.br/api/v1/consultas/classTrib" id="68">
+        <title>API CNBS</title>
+      </bookmark>
+      <bookmark href="https://estrategiasoftware.freshdesk.com/support/solutions/articles/60001571752-l%C3%B3gica-de-prioridade-do-cclasstrib-do-ibs-e-cbs" id="69">
+        <title>Lógica de Prioridade do cClassTrib do IBS e CBS : Estratégia Software</title>
+      </bookmark>
+      <bookmark href="https://www.portalpagamentointegrado.com.br/" id="70">
+        <title>Portal Pagamento Integrado</title>
+      </bookmark>
+    </folder>
+    <folder id="54">
+      <title>Retro</title>
+      <bookmark href="https://winworldpc.com/library/dev" id="71">
+        <title>DosBOX</title>
+      </bookmark>
+      <bookmark href="https://archive.org/search?tab=all&amp;query=borland" id="72">
+        <title>Internet Archive</title>
+      </bookmark>
+      <bookmark href="https://vetusware.com/manufacturer/Borland%20Software/?author=2" id="73">
+        <title>Abandonware Collection</title>
+      </bookmark>
+      <bookmark href="https://archive.org/details/@gamerretro" id="74">
+        <title>Roms MAME</title>
+      </bookmark>
+      <bookmark href="https://back-ups.me/details.php?id=945182" id="75">
+        <title>Roms MAME</title>
+      </bookmark>
+      <bookmark href="https://back-ups.me/details.php?id=945982" id="76">
+        <title>Roms Pinball</title>
+      </bookmark>
+      <bookmark href="https://pixelnostalgia.github.io/welcome/index.html" id="77">
+        <title>Pixel Nostalgia</title>
+      </bookmark>
+    </folder>
+    <folder id="55">
+      <title>CoreUI</title>
+      <bookmark href="https://coreui.io/bootstrap/docs/getting-started/introduction/" id="78">
+        <title>CoreUI Docs JS</title>
+      </bookmark>
+      <bookmark href="https://coreui.io/angular/docs/getting-started/introduction/" id="79">
+        <title>CoreUI Docs Angular</title>
+      </bookmark>
+      <bookmark href="https://github.com/coreui/coreui" id="80">
+        <title>CoreUI Template JS</title>
+      </bookmark>
+      <bookmark href="https://github.com/coreui/coreui-free-angular-admin-template#quick-start" id="81">
+        <title>CoreUI Template Angular</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
+      <title>PinPDV</title>
+    </bookmark>
+  </folder>
+  <folder id="5">
+    <title>AI</title>
+    <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
+      <title>Gemini</title>
+    </bookmark>
+    <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
+      <title>Devin</title>
+    </bookmark>
+    <bookmark href="https://claude.ai/new" id="36">
+      <title>Claude</title>
+    </bookmark>
+    <bookmark href="https://app.kiro.dev/home" id="37">
+      <title>Kiro</title>
+    </bookmark>
+    <bookmark href="https://www.kimi.com/pt-br" id="38">
+      <title>Kimi</title>
+    </bookmark>
+    <bookmark href="https://chat.deepseek.com/" id="39">
+      <title>DeepSeek</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://web.whatsapp.com/" id="7">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://softclass.atlassian.net/jira/software/projects/ERP/boards/1" id="8">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://logs.erpclass.com.br/connections/datasources/edit/tempo" id="9">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://docker.erpclass.com.br/" id="10">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://status.erpclass.com.br/status/system" id="11">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://console.magalu.cloud/" id="12">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://evo.erpclass.com.br/manager" id="13">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://admin.erpclass.com.br/" id="49">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://docs.erpclass.com.br/LazyLoading/" id="50">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://github.com/denernun" id="51">
+    <title></title>
+  </bookmark>
+  <folder id="52">
+    <title>Força de Vendas</title>
+    <bookmark href="https://mantosistemas.com.br/aplicativo-forca-de-vendas/" id="57">
+      <title>Aplicativo Força de Vendas Integrado ao ERP – Manto Sistemas</title>
+    </bookmark>
+    <bookmark href="https://www.demander.com.br/resultados-com-software-de-forca-de-vendas/" id="58">
+      <title>Como potencializar seus resultados com um software de força de vendas - Demander - Força de Vendas</title>
+    </bookmark>
+    <bookmark href="https://www.demander.com.br/aplicativo-forca-de-vendas/" id="59">
+      <title>Aplicativo Força de Vendas - Demander - Força de Vendas</title>
+    </bookmark>
+    <bookmark href="https://erpm8.cloud/forca-de-vendas/" id="60">
+      <title>força-de-vendas - ERP M8</title>
+    </bookmark>
+    <bookmark href="https://adasistemas.com.br/forca-de-vendas/" id="61">
+      <title>Força de vendas | ADA Sistemas</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <bookmark href="https://downloaddevtools.com/en" id="14">
+    <title>DownloadDevTools</title>
+  </bookmark>
+  <bookmark href="https://www.delphifan.com/forum/index.php?advstats/bulk-update" id="15">
+    <title>DelphiFan Forum</title>
+  </bookmark>
+  <bookmark href="https://saurus-softwares.tomticket.com/kb/faq-saurus-v4" id="16">
+    <title>Saurus Software</title>
+  </bookmark>
+  <bookmark href="https://atendimento.swfast.com.br/hc/pt-br/articles/12090219802651-Como-fazer-o-fechamento-de-caixa-e-quais-informa%C3%A7%C3%B5es-est%C3%A3o-na-fita-de-fechamento#h_01GRC2P2SRBW2TJ1RH234KJ2Y8" id="17">
+    <title>SWFast</title>
+  </bookmark>
+  <bookmark href="https://bdc.gdoor.com.br/categorias/manuais/" id="18">
+    <title>Gdoor</title>
+  </bookmark>
+  <bookmark href="https://atendimento.facilsistemas.com.br/kb/pt-br/article/328926/como-cadastrar-o-intermediador-financeiro?menuId=13710-39346-328926&amp;ticketId=&amp;q=" id="19">
+    <title>Fácil Sistemas</title>
+  </bookmark>
+  <bookmark href="https://share.linx.com.br/spacedirectory/view.action" id="20">
+    <title>Linx Sistemas</title>
+  </bookmark>
+  <bookmark href="https://open.shopee.com/developer-guide/20" id="21">
+    <title>Shopee API</title>
+  </bookmark>
+  <bookmark href="https://open.shopee.com/console/app" id="22">
+    <title>Shopee APP</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Workspaces</title>
+  <folder id="23">
+    <title>Dener</title>
+  </folder>
+</folder>
+</xbel>
