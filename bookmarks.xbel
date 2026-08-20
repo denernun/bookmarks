@@ -3,39 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :95: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
-  <title></title>
-</bookmark>
-<bookmark href="https://web.whatsapp.com/" id="7">
-  <title></title>
-</bookmark>
-<bookmark href="https://softclass.atlassian.net/jira/software/projects/ERP/boards/1" id="8">
-  <title></title>
-</bookmark>
-<bookmark href="https://logs.erpclass.com.br/connections/datasources/edit/tempo" id="9">
-  <title></title>
-</bookmark>
-<bookmark href="https://docker.erpclass.com.br/" id="10">
-  <title></title>
-</bookmark>
-<bookmark href="https://status.erpclass.com.br/status/system" id="11">
-  <title></title>
-</bookmark>
-<bookmark href="https://console.magalu.cloud/" id="12">
-  <title></title>
-</bookmark>
-<bookmark href="https://evo.erpclass.com.br/manager" id="13">
-  <title></title>
-</bookmark>
-<bookmark href="https://admin.erpclass.com.br/" id="49">
-  <title></title>
-</bookmark>
-<bookmark href="https://docs.erpclass.com.br/LazyLoading/" id="50">
-  <title></title>
-</bookmark>
-<bookmark href="https://github.com/denernun" id="51">
-  <title></title>
-</bookmark>
 <folder id="4">
   <title>Folders</title>
   <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
@@ -207,4 +174,37 @@
     <title>DeepSeek</title>
   </bookmark>
 </folder>
+<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
+  <title></title>
+</bookmark>
+<bookmark href="https://web.whatsapp.com/" id="7">
+  <title></title>
+</bookmark>
+<bookmark href="https://softclass.atlassian.net/jira/software/projects/ERP/boards/1" id="8">
+  <title></title>
+</bookmark>
+<bookmark href="https://logs.erpclass.com.br/connections/datasources/edit/tempo" id="9">
+  <title></title>
+</bookmark>
+<bookmark href="https://docker.erpclass.com.br/" id="10">
+  <title></title>
+</bookmark>
+<bookmark href="https://status.erpclass.com.br/status/system" id="11">
+  <title></title>
+</bookmark>
+<bookmark href="https://console.magalu.cloud/" id="12">
+  <title></title>
+</bookmark>
+<bookmark href="https://evo.erpclass.com.br/manager" id="13">
+  <title></title>
+</bookmark>
+<bookmark href="https://admin.erpclass.com.br/" id="49">
+  <title></title>
+</bookmark>
+<bookmark href="https://docs.erpclass.com.br/LazyLoading/" id="50">
+  <title></title>
+</bookmark>
+<bookmark href="https://github.com/denernun" id="51">
+  <title></title>
+</bookmark>
 </xbel>
