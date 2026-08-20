@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :95: for Floccus bookmark sync browser extension -->
+<!--- highestId :96: for Floccus bookmark sync browser extension -->
 
+<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
+  <title></title>
+</bookmark>
+<bookmark href="https://web.whatsapp.com/" id="7">
+  <title></title>
+</bookmark>
+<bookmark href="https://softclass.atlassian.net/jira/software/projects/ERP/boards/1" id="8">
+  <title></title>
+</bookmark>
+<bookmark href="https://logs.erpclass.com.br/connections/datasources/edit/tempo" id="9">
+  <title></title>
+</bookmark>
+<bookmark href="https://docker.erpclass.com.br/" id="10">
+  <title></title>
+</bookmark>
+<bookmark href="https://status.erpclass.com.br/status/system" id="11">
+  <title></title>
+</bookmark>
+<bookmark href="https://console.magalu.cloud/" id="12">
+  <title></title>
+</bookmark>
+<bookmark href="https://evo.erpclass.com.br/manager" id="13">
+  <title></title>
+</bookmark>
+<bookmark href="https://admin.erpclass.com.br/" id="49">
+  <title></title>
+</bookmark>
+<bookmark href="https://docs.erpclass.com.br/LazyLoading/" id="50">
+  <title></title>
+</bookmark>
+<bookmark href="https://github.com/denernun" id="51">
+  <title></title>
+</bookmark>
+<bookmark href="https://dev.to/hadil/how-to-reach-your-full-potential-as-a-programmer-its-probably-not-what-you-think-4l4?via=dailydev" id="96">
+  <title>How to Reach Your Full Potential as a Programmer (It&apos;s Probably Not What You Think) - DEV Community</title>
+</bookmark>
 <folder id="4">
   <title></title>
   <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
@@ -158,53 +194,20 @@
   <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
     <title>Gemini</title>
   </bookmark>
-  <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
-    <title>Devin</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/new" id="36">
-    <title>Claude</title>
-  </bookmark>
   <bookmark href="https://app.kiro.dev/home" id="37">
     <title>Kiro</title>
   </bookmark>
+  <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
+    <title>Devin</title>
+  </bookmark>
   <bookmark href="https://www.kimi.com/pt-br" id="38">
     <title>Kimi</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/new" id="36">
+    <title>Claude</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="39">
     <title>DeepSeek</title>
   </bookmark>
 </folder>
-<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
-  <title></title>
-</bookmark>
-<bookmark href="https://web.whatsapp.com/" id="7">
-  <title></title>
-</bookmark>
-<bookmark href="https://softclass.atlassian.net/jira/software/projects/ERP/boards/1" id="8">
-  <title></title>
-</bookmark>
-<bookmark href="https://logs.erpclass.com.br/connections/datasources/edit/tempo" id="9">
-  <title></title>
-</bookmark>
-<bookmark href="https://docker.erpclass.com.br/" id="10">
-  <title></title>
-</bookmark>
-<bookmark href="https://status.erpclass.com.br/status/system" id="11">
-  <title></title>
-</bookmark>
-<bookmark href="https://console.magalu.cloud/" id="12">
-  <title></title>
-</bookmark>
-<bookmark href="https://evo.erpclass.com.br/manager" id="13">
-  <title></title>
-</bookmark>
-<bookmark href="https://admin.erpclass.com.br/" id="49">
-  <title></title>
-</bookmark>
-<bookmark href="https://docs.erpclass.com.br/LazyLoading/" id="50">
-  <title></title>
-</bookmark>
-<bookmark href="https://github.com/denernun" id="51">
-  <title></title>
-</bookmark>
 </xbel>
