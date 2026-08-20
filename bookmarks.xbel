@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :81: for Floccus bookmark sync browser extension -->
+<!--- highestId :82: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -209,6 +209,9 @@
       <title>Força de vendas | ADA Sistemas</title>
     </bookmark>
   </folder>
+  <bookmark href="https://dev.to/hadil/how-to-reach-your-full-potential-as-a-programmer-its-probably-not-what-you-think-4l4?via=dailydev" id="82">
+    <title>How to Reach Your Full Potential as a Programmer (It&apos;s Probably Not What You Think) - DEV Community</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
