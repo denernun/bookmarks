@@ -3,42 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :95: for Floccus bookmark sync browser extension -->
 
-<folder id="2">
-  <title>Other Bookmarks</title>
-  <bookmark href="https://downloaddevtools.com/en" id="14">
-    <title>DownloadDevTools</title>
-  </bookmark>
-  <bookmark href="https://www.delphifan.com/forum/index.php?advstats/bulk-update" id="15">
-    <title>DelphiFan Forum</title>
-  </bookmark>
-  <bookmark href="https://saurus-softwares.tomticket.com/kb/faq-saurus-v4" id="16">
-    <title>Saurus Software</title>
-  </bookmark>
-  <bookmark href="https://atendimento.swfast.com.br/hc/pt-br/articles/12090219802651-Como-fazer-o-fechamento-de-caixa-e-quais-informa%C3%A7%C3%B5es-est%C3%A3o-na-fita-de-fechamento#h_01GRC2P2SRBW2TJ1RH234KJ2Y8" id="17">
-    <title>SWFast</title>
-  </bookmark>
-  <bookmark href="https://bdc.gdoor.com.br/categorias/manuais/" id="18">
-    <title>Gdoor</title>
-  </bookmark>
-  <bookmark href="https://atendimento.facilsistemas.com.br/kb/pt-br/article/328926/como-cadastrar-o-intermediador-financeiro?menuId=13710-39346-328926&amp;ticketId=&amp;q=" id="19">
-    <title>Fácil Sistemas</title>
-  </bookmark>
-  <bookmark href="https://share.linx.com.br/spacedirectory/view.action" id="20">
-    <title>Linx Sistemas</title>
-  </bookmark>
-  <bookmark href="https://open.shopee.com/developer-guide/20" id="21">
-    <title>Shopee API</title>
-  </bookmark>
-  <bookmark href="https://open.shopee.com/console/app" id="22">
-    <title>Shopee APP</title>
-  </bookmark>
-</folder>
-<folder id="3">
-  <title>Workspaces</title>
-  <folder id="23">
-    <title>Dener</title>
-  </folder>
-</folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
   <title></title>
 </bookmark>
@@ -279,9 +243,6 @@
 <bookmark href="https://github.com/SOFTClass" id="93">
   <title></title>
 </bookmark>
-<folder id="94">
-  <title>Ingles</title>
-</folder>
 <folder id="95">
   <title>Android</title>
 </folder>
