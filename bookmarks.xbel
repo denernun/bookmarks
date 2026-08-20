@@ -223,10 +223,10 @@
   </bookmark>
   <folder id="88">
     <title>Tools</title>
-    <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
-      <title>Selfhosted</title>
-    </bookmark>
   </folder>
+  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+    <title>Self-Hosted</title>
+  </bookmark>
 </folder>
 <folder id="5">
   <title>AI</title>
