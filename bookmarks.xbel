@@ -3,9 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :95: for Floccus bookmark sync browser extension -->
 
-<folder id="1">
-  <title>Bookmarks Bar</title>
-</folder>
 <folder id="2">
   <title>Other Bookmarks</title>
   <bookmark href="https://downloaddevtools.com/en" id="14">
