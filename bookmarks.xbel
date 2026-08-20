@@ -4,7 +4,7 @@
 <!--- highestId :95: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
-  <title>Folders</title>
+  <title></title>
   <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
     <title>AWS</title>
   </bookmark>
@@ -154,7 +154,7 @@
   </bookmark>
 </folder>
 <folder id="5">
-  <title>AI</title>
+  <title></title>
   <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
     <title>Gemini</title>
   </bookmark>
