@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :82: for Floccus bookmark sync browser extension -->
+<!--- highestId :95: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -98,9 +98,6 @@
   <bookmark href="https://selfh.st/apps/" id="29">
     <title>Self-Hosted</title>
   </bookmark>
-  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
-    <title>Self-Hosted</title>
-  </bookmark>
   <folder id="31">
     <title>Homelab</title>
     <bookmark href="https://192.168.15.100:8006/" id="40">
@@ -117,6 +114,9 @@
     </bookmark>
     <bookmark href="http://localhost:15672/#/" id="43">
       <title>RabbitMQ</title>
+    </bookmark>
+    <bookmark href="http://localhost:5540/" id="83">
+      <title>Redis</title>
     </bookmark>
   </folder>
   <folder id="33">
@@ -135,6 +135,15 @@
     </bookmark>
     <bookmark href="https://acbr.nutror.com/curso/e16bc01e935004828eff62bb49d189252efbeef9?email=denernun%40gmail.com" id="48">
       <title>ACBr Pro - Reforma</title>
+    </bookmark>
+    <bookmark href="https://www.udemy.com/join/passwordless-auth/?next=%2Fcourse%2Faplicandocleanarchitecturecomdelphi%2Flearn%2Flecture%2F42926606%3Fstart%3D440#overview" id="84">
+      <title>UDemy</title>
+    </bookmark>
+    <bookmark href="https://www.expxplay.com.br/login" id="85">
+      <title>ExpxPlay</title>
+    </bookmark>
+    <bookmark href="https://app.sacfiscal.io/index.html" id="86">
+      <title>SAC Fiscal</title>
     </bookmark>
   </folder>
   <folder id="53">
@@ -209,6 +218,15 @@
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
   </bookmark>
+  <bookmark href="https://cluster.euatendo.app/login" id="87">
+    <title>Cluster</title>
+  </bookmark>
+  <folder id="88">
+    <title>Tools</title>
+    <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+      <title>Selfhosted</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="5">
   <title>AI</title>
@@ -248,5 +266,26 @@
   <bookmark href="https://adasistemas.com.br/forca-de-vendas/" id="61">
     <title>Força de vendas | ADA Sistemas</title>
   </bookmark>
+</folder>
+<bookmark href="https://claude.ai/chat/d5ca8864-a751-4470-a0a1-8d65f241929a" id="89">
+  <title></title>
+</bookmark>
+<bookmark href="https://gemini.google.com/app" id="90">
+  <title></title>
+</bookmark>
+<bookmark href="https://logs.erpclass.com.br/d/nginx-overview/nginx?orgId=1&amp;from=now-3h&amp;to=now&amp;timezone=browser&amp;var-datasource=mimir&amp;var-server=$__all&amp;refresh=30s" id="91">
+  <title></title>
+</bookmark>
+<bookmark href="https://admin.erpclass.com.br/app/connections" id="92">
+  <title></title>
+</bookmark>
+<bookmark href="https://github.com/SOFTClass" id="93">
+  <title></title>
+</bookmark>
+<folder id="94">
+  <title>Ingles</title>
+</folder>
+<folder id="95">
+  <title>Android</title>
 </folder>
 </xbel>
