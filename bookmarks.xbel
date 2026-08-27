@@ -23,6 +23,9 @@
   <bookmark href="https://selfh.st/apps/" id="29">
     <title>Self-Hosted</title>
   </bookmark>
+  <bookmark href="https://huggingface.co/" id="98">
+    <title>Hugging Face</title>
+  </bookmark>
   <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
     <title>Self-Hosted</title>
   </bookmark>
@@ -160,9 +163,6 @@
   </bookmark>
   <bookmark href="https://www.kimi.com/pt-br" id="38">
     <title>Kimi</title>
-  </bookmark>
-  <bookmark href="https://huggingface.co/" id="98">
-    <title>Hugging Face</title>
   </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
