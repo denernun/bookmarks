@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :98: for Floccus bookmark sync browser extension -->
+<!--- highestId :99: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title></title>
@@ -139,6 +139,9 @@
   </folder>
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
+  </bookmark>
+  <bookmark href="https://benchlm.ai/" id="99">
+    <title>LLM Leaderboard &amp; AI Model Benchmarks — August 2026</title>
   </bookmark>
 </folder>
 <folder id="5">
