@@ -149,23 +149,23 @@
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
   </bookmark>
-  <bookmark href="https://chatgpt.com/" id="104">
-    <title>ChatGPT</title>
-  </bookmark>
 </folder>
 <folder id="5">
   <title></title>
   <bookmark href="https://claude.ai/new" id="36">
     <title>Claude</title>
   </bookmark>
+  <bookmark href="https://chatgpt.com/" id="104">
+    <title>ChatGPT</title>
+  </bookmark>
   <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
     <title>Gemini</title>
   </bookmark>
-  <bookmark href="https://app.kiro.dev/home" id="37">
-    <title>Kiro</title>
-  </bookmark>
   <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
     <title>Devin</title>
+  </bookmark>
+  <bookmark href="https://app.kiro.dev/home" id="37">
+    <title>Kiro</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="39">
     <title>DeepSeek</title>
