@@ -20,9 +20,6 @@
   <bookmark href="https://cluster.euatendo.app/dashboard/instances" id="28">
     <title>Cluster</title>
   </bookmark>
-  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
-    <title>Self-Hosted</title>
-  </bookmark>
   <folder id="32">
     <title>Development</title>
     <bookmark href="http://localhost:8081/" id="42">
@@ -128,6 +125,9 @@
 </folder>
 <folder id="105">
   <title></title>
+  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+    <title>Self-Hosted</title>
+  </bookmark>
   <bookmark href="https://selfh.st/apps/" id="29">
     <title>Self-Hosted</title>
   </bookmark>
