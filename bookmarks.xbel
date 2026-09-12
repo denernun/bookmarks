@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :105: for Floccus bookmark sync browser extension -->
+<!--- highestId :108: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title></title>
@@ -143,6 +143,9 @@
   <bookmark href="https://huggingface.co/spaces" id="100">
     <title>Hugging Face</title>
   </bookmark>
+  <bookmark href="https://github.com/mahseema/awesome-ai-tools" id="106">
+    <title>mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools</title>
+  </bookmark>
 </folder>
 <folder id="5">
   <title></title>
@@ -169,6 +172,12 @@
   </bookmark>
   <bookmark href="https://www.kimi.com/pt-br" id="38">
     <title>Kimi</title>
+  </bookmark>
+  <bookmark href="https://github.com/andyrewlee/awesome-agent-orchestrators" id="107">
+    <title>andyrewlee/awesome-agent-orchestrators: List of agent orchestrators</title>
+  </bookmark>
+  <bookmark href="https://github.com/ai-for-developers/awesome-ai-coding-tools" id="108">
+    <title>ai-for-developers/awesome-ai-coding-tools: A curated list of AI-powered coding tools</title>
   </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
