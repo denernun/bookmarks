@@ -131,11 +131,11 @@
   <bookmark href="https://selfh.st/apps/" id="29">
     <title>Self-Hosted</title>
   </bookmark>
-  <bookmark href="https://llm-stats.com/" id="101">
-    <title>AI Leaderboard</title>
-  </bookmark>
   <bookmark href="https://benchlm.ai/" id="99">
     <title>BenchLM</title>
+  </bookmark>
+  <bookmark href="https://llm-stats.com/" id="101">
+    <title>AI Leaderboard</title>
   </bookmark>
   <bookmark href="https://artificialanalysis.ai/" id="102">
     <title>Artificial Analysis</title>
