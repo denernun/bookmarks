@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :110: for Floccus bookmark sync browser extension -->
+<!--- highestId :111: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title></title>
@@ -157,6 +157,9 @@
   </bookmark>
   <bookmark href="https://github.com/mahseema/awesome-ai-tools" id="106">
     <title>mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools</title>
+  </bookmark>
+  <bookmark href="https://aifordevelopers.org/" id="111">
+    <title>AI for Developers — Best AI Coding Dev Tools, AI Agents, Skills &amp; SDKs (2026)</title>
   </bookmark>
 </folder>
 <folder id="5">
