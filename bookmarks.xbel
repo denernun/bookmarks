@@ -5,6 +5,51 @@
 
 <folder id="4">
   <title></title>
+  <folder id="105">
+    <title>LLM</title>
+    <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
+      <title>Self-Hosted</title>
+    </bookmark>
+    <bookmark href="https://selfh.st/apps/" id="29">
+      <title>Self-Hosted</title>
+    </bookmark>
+    <bookmark href="https://benchlm.ai/" id="99">
+      <title>BenchLM</title>
+    </bookmark>
+    <bookmark href="https://llm-stats.com/" id="101">
+      <title>AI Leaderboard</title>
+    </bookmark>
+    <bookmark href="https://artificialanalysis.ai/" id="102">
+      <title>Artificial Analysis</title>
+    </bookmark>
+    <bookmark href="https://huggingface.co/spaces" id="100">
+      <title>Hugging Face</title>
+    </bookmark>
+    <bookmark href="https://stitch.withgoogle.com/projects/13515254262676413174" id="110">
+      <title>Stitch - Projects</title>
+    </bookmark>
+    <bookmark href="https://uizard.io/" id="109">
+      <title>UI Design Made Easy, Powered By AI | Uizard</title>
+    </bookmark>
+    <bookmark href="https://github.com/ai-for-developers/awesome-ai-coding-tools" id="108">
+      <title>ai-for-developers/awesome-ai-coding-tools: A curated list of AI-powered coding tools</title>
+    </bookmark>
+    <bookmark href="https://github.com/andyrewlee/awesome-agent-orchestrators" id="107">
+      <title>andyrewlee/awesome-agent-orchestrators: List of agent orchestrators</title>
+    </bookmark>
+    <bookmark href="https://github.com/mahseema/awesome-ai-tools" id="106">
+      <title>mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools</title>
+    </bookmark>
+    <bookmark href="https://aifordevelopers.org/" id="111">
+      <title>AI for Developers — Best AI Coding Dev Tools, AI Agents, Skills &amp; SDKs (2026)</title>
+    </bookmark>
+    <bookmark href="https://devtools.directory/" id="112">
+      <title>devtools/ — The open wiki for everything developers use</title>
+    </bookmark>
+    <bookmark href="https://github.com/alternbits/awesome-ai-agents" id="113">
+      <title>alternbits/awesome-ai-agents: A curated list of awesome top best AI Agents</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
     <title>AWS</title>
   </bookmark>
@@ -121,51 +166,6 @@
   </folder>
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
-  </bookmark>
-</folder>
-<folder id="105">
-  <title></title>
-  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
-    <title>Self-Hosted</title>
-  </bookmark>
-  <bookmark href="https://selfh.st/apps/" id="29">
-    <title>Self-Hosted</title>
-  </bookmark>
-  <bookmark href="https://benchlm.ai/" id="99">
-    <title>BenchLM</title>
-  </bookmark>
-  <bookmark href="https://llm-stats.com/" id="101">
-    <title>AI Leaderboard</title>
-  </bookmark>
-  <bookmark href="https://artificialanalysis.ai/" id="102">
-    <title>Artificial Analysis</title>
-  </bookmark>
-  <bookmark href="https://huggingface.co/spaces" id="100">
-    <title>Hugging Face</title>
-  </bookmark>
-  <bookmark href="https://stitch.withgoogle.com/projects/13515254262676413174" id="110">
-    <title>Stitch - Projects</title>
-  </bookmark>
-  <bookmark href="https://uizard.io/" id="109">
-    <title>UI Design Made Easy, Powered By AI | Uizard</title>
-  </bookmark>
-  <bookmark href="https://github.com/ai-for-developers/awesome-ai-coding-tools" id="108">
-    <title>ai-for-developers/awesome-ai-coding-tools: A curated list of AI-powered coding tools</title>
-  </bookmark>
-  <bookmark href="https://github.com/andyrewlee/awesome-agent-orchestrators" id="107">
-    <title>andyrewlee/awesome-agent-orchestrators: List of agent orchestrators</title>
-  </bookmark>
-  <bookmark href="https://github.com/mahseema/awesome-ai-tools" id="106">
-    <title>mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools</title>
-  </bookmark>
-  <bookmark href="https://aifordevelopers.org/" id="111">
-    <title>AI for Developers — Best AI Coding Dev Tools, AI Agents, Skills &amp; SDKs (2026)</title>
-  </bookmark>
-  <bookmark href="https://devtools.directory/" id="112">
-    <title>devtools/ — The open wiki for everything developers use</title>
-  </bookmark>
-  <bookmark href="https://github.com/alternbits/awesome-ai-agents" id="113">
-    <title>alternbits/awesome-ai-agents: A curated list of awesome top best AI Agents</title>
   </bookmark>
 </folder>
 <folder id="5">
