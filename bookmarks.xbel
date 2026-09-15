@@ -5,6 +5,21 @@
 
 <folder id="4">
   <title></title>
+  <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
+    <title>AWS</title>
+  </bookmark>
+  <bookmark href="https://portal.azure.com/#@softclass.com.br/resource/subscriptions/2409bea2-9c0c-42ae-8eb5-65c29b67e112/overview" id="25">
+    <title>Azure</title>
+  </bookmark>
+  <bookmark href="https://dash.cloudflare.com/3e2c49db4eb787654faa22bbc74792d0/stellacalchi.com/dns/records?page=1" id="26">
+    <title>Cloudflare</title>
+  </bookmark>
+  <bookmark href="https://erpclass.apicomponente.com.br/manager/" id="27">
+    <title>Instancias</title>
+  </bookmark>
+  <bookmark href="https://cluster.euatendo.app/dashboard/instances" id="28">
+    <title>Cluster</title>
+  </bookmark>
   <folder id="105">
     <title>LLM</title>
     <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted#software-development" id="30">
@@ -50,21 +65,33 @@
       <title>alternbits/awesome-ai-agents: A curated list of awesome top best AI Agents</title>
     </bookmark>
   </folder>
-  <bookmark href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&amp;redirect_uri=https%3A%2F%2Fsa-east-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26region%3Dsa-east-1%26state%3DhashArgsFromTB_sa-east-1_ffd27fb2c10aa211&amp;page=resolve&amp;code_challenge=KnSOXKJaJjBypsk5nCvGXeFqq3qxg15rmdEczSBGKhk&amp;code_challenge_method=SHA-256" id="24">
-    <title>AWS</title>
-  </bookmark>
-  <bookmark href="https://portal.azure.com/#@softclass.com.br/resource/subscriptions/2409bea2-9c0c-42ae-8eb5-65c29b67e112/overview" id="25">
-    <title>Azure</title>
-  </bookmark>
-  <bookmark href="https://dash.cloudflare.com/3e2c49db4eb787654faa22bbc74792d0/stellacalchi.com/dns/records?page=1" id="26">
-    <title>Cloudflare</title>
-  </bookmark>
-  <bookmark href="https://erpclass.apicomponente.com.br/manager/" id="27">
-    <title>Instancias</title>
-  </bookmark>
-  <bookmark href="https://cluster.euatendo.app/dashboard/instances" id="28">
-    <title>Cluster</title>
-  </bookmark>
+  <folder id="5">
+    <title>LLM Chats</title>
+    <bookmark href="https://claude.ai/new" id="36">
+      <title>Claude</title>
+    </bookmark>
+    <bookmark href="https://chatgpt.com/" id="104">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
+      <title>Gemini</title>
+    </bookmark>
+    <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
+      <title>Devin</title>
+    </bookmark>
+    <bookmark href="https://app.kiro.dev/home" id="37">
+      <title>Kiro</title>
+    </bookmark>
+    <bookmark href="https://chat.deepseek.com/" id="39">
+      <title>DeepSeek</title>
+    </bookmark>
+    <bookmark href="https://chat.z.ai/" id="97">
+      <title>Z.ai</title>
+    </bookmark>
+    <bookmark href="https://www.kimi.com/pt-br" id="38">
+      <title>Kimi</title>
+    </bookmark>
+  </folder>
   <folder id="32">
     <title>Development</title>
     <bookmark href="http://localhost:8081/" id="42">
@@ -166,33 +193,6 @@
   </folder>
   <bookmark href="https://docs.multipluscard.com.br/pt/documentacao/pinpdv/introducao/" id="56">
     <title>PinPDV</title>
-  </bookmark>
-</folder>
-<folder id="5">
-  <title></title>
-  <bookmark href="https://claude.ai/new" id="36">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="104">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app/b6d8ed82e6171e2c" id="34">
-    <title>Gemini</title>
-  </bookmark>
-  <bookmark href="https://app.devin.ai/org/dener-rocha-4d5da167790043e3be22f1c026c7c596" id="35">
-    <title>Devin</title>
-  </bookmark>
-  <bookmark href="https://app.kiro.dev/home" id="37">
-    <title>Kiro</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="39">
-    <title>DeepSeek</title>
-  </bookmark>
-  <bookmark href="https://chat.z.ai/" id="97">
-    <title>Z.ai</title>
-  </bookmark>
-  <bookmark href="https://www.kimi.com/pt-br" id="38">
-    <title>Kimi</title>
   </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="6">
