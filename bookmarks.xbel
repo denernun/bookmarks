@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :113: for Floccus bookmark sync browser extension -->
+<!--- highestId :114: for Floccus bookmark sync browser extension -->
 
 <folder id="4">
   <title></title>
@@ -64,6 +64,9 @@
     <bookmark href="https://github.com/alternbits/awesome-ai-agents" id="113">
       <title>alternbits/awesome-ai-agents: A curated list of awesome top best AI Agents</title>
     </bookmark>
+    <folder id="114">
+      <title>Benchmark</title>
+    </folder>
   </folder>
   <folder id="5">
     <title>LLM Chats</title>
